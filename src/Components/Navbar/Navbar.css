@@ -1,0 +1,11 @@
+.work {
+  font-family: "Work Sans", sans-serif;
+}
+
+nav a.active {
+  color: #23be0a;
+  border-radius: 8px;
+  border: 1px solid #23be0a;
+  padding: 10px 16px;
+  font-weight: 600;
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/d7vRBtX/1x-1-removebg-preview.png",
+    "review": "Set in the Jazz Age, The Great Gatsby is a captivating portrayal of the American Dream gone awry. Through the eyes of narrator Nick Carraway, we delve into the lavish world of Jay Gatsby and the complexities of love, wealth, and social status. Fitzgerald's prose is both elegant and poignant, painting a vivid picture of the era's opulence and its underlying disillusionment. This timeless classic continues to resonate with readers, offering profound insights into the human condition and the pursuit of happiness.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Romance", "Drama", "Classic"],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "id": 2,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/61CxN9x/71k-XYs4t-Cv-L-AC-UF1000-1000-QL80-removebg-preview.png",
+    "review": "George Orwell's 1984 is a chilling dystopian masterpiece that continues to resonate with readers decades after its publication. Set in a totalitarian society ruled by the omnipresent Party led by Big Brother, the novel follows protagonist Winston Smith as he rebels against the oppressive regime. Through themes of surveillance, propaganda, and the manipulation of truth, Orwell offers a stark warning about the dangers of authoritarianism and the erosion of individual freedoms. 1984 is a compelling and thought-provoking exploration of power, control, and the resilience of the human spirit.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": ["Dystopian", "Political", "Social"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "id": 3,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/ccrqSmG/161006-removebg-preview.png",
+    "review": "Harper Lee's To Kill a Mockingbird is a timeless classic that confronts themes of racism, prejudice, and morality in the American South. Through the innocent perspective of young Scout Finch, readers are immersed in a narrative that challenges societal norms and exposes the injustice of the legal system. Atticus Finch, Scout's father, emerges as a moral compass, advocating for justice and empathy in the face of bigotry. Lee's poignant storytelling and memorable characters make To Kill a Mockingbird a powerful and enduring work that continues to inspire readers to confront the complexities of human nature.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Coming Age", "Legal", "Dystopian"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "id": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/dfVncKn/ezgif-5-a6ba86833d-removebg-preview.png",
+    "review": "Jane Austen's Pride and Prejudice is a beloved classic of English literature, celebrated for its wit, social commentary, and timeless romance. Set in early 19th-century England, the novel follows the headstrong Elizabeth Bennet as she navigates the intricacies of love, class, and societal expectations. Through Austen's sharp satire and keen observations of human behavior, Pride and Prejudice offers a nuanced portrayal of marriage, family, and the pursuit of happiness. With its enduring appeal and memorable characters, this novel continues to captivate readers of all ages.",
+    "totalPages": 279,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Romance", "Satire", "Regency Era"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "id": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/WtTH4ry/ezgif-5-17fda69156-removebg-preview.png",
+    "review": "J.D. Salinger's The Catcher in the Rye is a seminal work of modern literature that continues to resonate with readers for its raw portrayal of teenage angst and disillusionment. Narrated by the troubled Holden Caulfield, the novel follows his journey through New York City as he grapples with identity, alienation, and the phoniness of adult society. Salinger's masterful prose captures the voice of a generation and explores universal themes of adolescence and the search for authenticity. The Catcher in the Rye remains a timeless coming-of-age story that speaks to the challenges of growing up in a complex and often hypocritical world.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Coming Age", "Psychological", "Classic"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "id": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/R33vcnK/1571105999-0-x-removebg-preview.png",
+    "review": "J.R.R. Tolkien's The Hobbit is a timeless fantasy adventure that transports readers to the magical world of Middle-earth. Bilbo Baggins, a reluctant hero, embarks on an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Along the way, he encounters wizards, elves, trolls, and other fantastical creatures, each adding depth to this richly imagined universe. With its themes of courage, friendship, and the triumph of good over evil, The Hobbit captivates readers of all ages and continues to inspire generations of fantasy lovers worldwide.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Quest", "Dystopian"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  }
+]
