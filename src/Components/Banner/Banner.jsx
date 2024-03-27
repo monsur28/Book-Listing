@@ -3,11 +3,11 @@ import banner from "./BannerBook.png";
 
 const Banner = () => {
   return (
-    <div className="hero bg-base-200 mt-16 rounded-3xl">
+    <div className="lg:hero bg-base-200 mt-16 rounded-3xl">
       <div className=" flex lg:flex-row-reverse flex-col justify-center items-center gap-24 py-20">
-        <img src={banner} className="max-w-sm rounded-lg bg-base-200" />
+        <img src={banner} className="lg:max-w-sm rounded-lg bg-base-200" />
         <div>
-          <h1 className="text-5xl font-bold text-left">
+          <h1 className="lg:text-5xl text-2xl font-bold text-left">
             Books to freshen up <br /> your bookshelf
           </h1>
           <Link
