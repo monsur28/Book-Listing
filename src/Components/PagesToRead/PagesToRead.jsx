@@ -1,4 +1,4 @@
-import { useLoaderData } from "react-router-dom";
+/* eslint-disable react/prop-types */
 import {
   BarChart,
   Bar,
